@@ -59,7 +59,7 @@ $ git clone git://github.com/alanbakali/ElectronicGovernance.git ElectronicGover
 #### Option 1: Composer is not installed globally
 
 ```bash
-$ cd laravel
+$ cd ElectronicGovernance
 $ curl -s http://getcomposer.org/installer | php
 $ php composer.phar install --dev
 ```
